@@ -1,0 +1,10 @@
+Parking_ID,Location,Capacity,Occupied_Spaces,Day_of_Week,Status
+1,CAMPBELL SQUARE,450,420,Friday,Bottleneck
+2,ST. JOHN'S,350,150,Monday,Normal
+3,MAYORHOLD,600,580,Friday,Bottleneck
+4,CAMPBELL SQUARE,450,210,Monday,Normal
+5,ST. JOHN'S,350,340,Friday,Bottleneck
+6,MAYORHOLD,600,220,Monday,Normal
+7,CAMPBELL SQUARE,450,390,Saturday,High
+8,ST. JOHN'S,350,310,Saturday,High
+9,MAYORHOLD,600,510,Saturday,High
